@@ -1,4 +1,4 @@
-# animateedintefacelab
+# animatedinterface
 
 A new Flutter project.
 
